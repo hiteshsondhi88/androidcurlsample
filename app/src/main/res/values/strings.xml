@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">androidcurl</string>
+    <string name="run">Run</string>
+
+    <string name="curl_version_label">Curl Version Information (curl --version):</string>
+    <string name="curl_http_label">Curl HTTP Command Example (curl -I http://google.com):</string>
+    <string name="curl_https_label">Curl HTTPS Command Example (curl -I -k https://google.com):</string>
+    <string name="curl_custom_command_hint">Add curl custom command here, e.g - To run \'curl --version\' please put \'--version\'</string>
+
+</resources>
